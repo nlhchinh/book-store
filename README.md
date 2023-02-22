@@ -29,10 +29,11 @@
 - Manage user information.
 
 ### Screenshots
+**Home page**
 ![source_code_junit](https://github.com/nlhchinh/book-store/blob/main/screenshots/customer-home-page.png)
-
+**Order history management page**
 ![source_code_junit](https://github.com/nlhchinh/book-store/blob/main/screenshots/history-order-management-page.png)
-
+**Product page**
 ![source_code_junit](https://github.com/nlhchinh/book-store/blob/main/screenshots/product-page.png)
 
 ### Contact me via chinhnguyen1692000z@gmail.com
